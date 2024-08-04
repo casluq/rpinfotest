@@ -15,9 +15,9 @@ Abra o terminal na pasta do projeto e utilize o comando:
 ```
 
 ## Endpoints disponíveis :
-GET:    http://localhost:8080/ordensDeServico\
-GET:    http://localhost:8080/ordensDeServico/pendentes\
-GET:    localhost:8080/ordemDeServico/:id\
+GET:    http://localhost:8080/ordensDeServico \
+GET:    http://localhost:8080/ordensDeServico/pendentes \
+GET:    localhost:8080/ordemDeServico/:id \
 POST:   localhost:8080/ordemDeServico\
 PUT:    localhost:8080/ordemDeServico/:id/iniciarManutencao\
 PUT:    localhost:8080/ordemDeServico/:id/finalizarManutencao\
